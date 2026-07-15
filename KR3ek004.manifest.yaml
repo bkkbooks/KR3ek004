@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ek004/v1
 canonical_location: https://kanripo.org/bkk/KR3ek004/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 仙傳外科集驗方
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek004_000.yaml, hash: 'sha256:6f265e6816a1397a45acbbfd751743934cb39f856f67883d1ff1f7bbd3003958'}
+  - {seq: 0, filename: KR3ek004_000.yaml, hash: 'sha256:7be42063b4d755f0f72de9fd9cc7350f55557cb87a3eb227bad19cbacca0f065'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek004_000.markers.yaml, hash: 'sha256:2a7869f9cfcca112fe2c73c44fbd1ce1d3689024e0e91caffd005839a51a80a6'}
+  - {seq: 0, role: markers, filename: assets/KR3ek004_000.markers.yaml, hash: 'sha256:f5f4e921f1f58b3f7de402d02f28c7930fbc5afe21a6a06febd5b771788c0748'}
 table_of_contents:
 - ref:
     seq: 0
@@ -730,4 +730,7 @@ table_of_contents:
   label: 經驗治瘋狗咬人方法
   type: section
   level: 2
-hash: sha256:d889e98889d8e88474cac844f08d67bb23f6a4b4fc9eee6322475d65c2cf9fd7
+hash: sha256:6634d809d02518818a715dd1c466f7867f5e95dd0c022d7b0daecc8aaa29dc9a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
