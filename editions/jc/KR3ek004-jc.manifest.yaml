@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ek004_000-jc.yaml, hash: 'sha256:6f265e6816a1397a45acbbfd751743934cb39f856f67883d1ff1f7bbd3003958'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek004_000-jc.markers.yaml, hash: 'sha256:cd868453c48295d2ede598806b72ce54c1a295b1765e936727e54f6ce622ca0a'}
+  - {seq: 0, role: markers, filename: assets/KR3ek004_000-jc.markers.yaml, hash: 'sha256:30357b091b683387df74bdbae08e041af9f232151650b2f1bd82c0c582af0bfa'}
 table_of_contents:
 - ref:
     seq: 0
@@ -730,4 +730,4 @@ table_of_contents:
   label: 經驗治瘋狗咬人方法
   type: section
   level: 2
-hash: sha256:37918506c4e423e895611016d16d0c80349855a38d4287205ef306570120144c
+hash: sha256:099383dc71391c1d1b00300d0742cd22a7ec71bd4f857a3eb0649a83f61eaf43
